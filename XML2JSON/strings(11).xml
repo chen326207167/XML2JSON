@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">iChat</string>
+
+
+    <string name="online">onLine</string>
+    <string name="offline">offLine</string>
+    <string name="busy">busy</string>
+    <string name="phrase">phrase</string>
+    <string name="create">create</string>
+    <string name="complete">complete</string>
+    <string name="service">Chat</string>
+    <string name="ichat">iChat</string>
+    <string name="corporation_id">corporation_id</string>
+    <string name="login_id">login_id</string>
+    <string name="nickname">nickname：</string>
+    <string name="confirm_pass">confirm_pass</string>
+    <string name="confirm">confirm</string>
+    <string name="dont_quit">dont_quit</string>
+    <string name="expiry_date">expiry_date：</string>
+    <string name="ok">ok</string>
+    <string name="set_up">set_up</string>
+    <string name="hkd">HKD </string>
+    <string name="year">(year)</string>
+    <string name="record_retention">record_retention</string>
+    <string name="lefttime">lefttime</string>
+    <string name="operator_transfer">operator_transfer</string>
+    <string name="transfer">transfer</string>
+
+    <string name="no">no</string>
+    <string name="yes">yes</string>
+    <string name="confirm_to_add">confirm_to_add</string>
+    <string name="xiugainicheng">Edit Nick</string>
+
+
+    <string name="password">password</string>
+    <string name="sign_in">sign_in</string>
+    <string name="about_ichat">about iChat</string>
+    <string name="about_ichat_content">Nam dapibus nisl vitae elit fringilla rutrum. Aenean sollicitudin, erat a elementum rutrum, neque sem pretium metus, quis mollis nisl nunc et massa. Vestibulum sed metus in lorem tristique ullamcorper id vitae erat. Nulla mollis sapien sollicitudin lacinia lacinia. Vivamus facilisis dolor et massa placerat, at vestibulum nisl egestas. Nullam rhoncus lacus non odio luctus, eu condimentum mauris ultrices. Praesent blandit, augue a posuere aliquam, arcu tortor feugiat turpis, quis lacinia augue sapien at tellus. Cras ut erat magna. Morbi nibh ante, condimentum vestibulum tempus a, tristique et velit. Sed semper aliquet ante. Quisque tempus arcu sapien, id convallis turpis dictum quis. Nunc commodo vitae risus sit amet sollicitudin. Sed id facilisis sem.</string>
+    <string name="sign_up">sign_up</string>
+    <string name="login_content">Password can be reset by main account. If you forgot your main account password, please contact us at password @ichat.hk</string>
+
+    <string name="company_name">company_name：</string>
+    <string name="company">company</string>
+    <string name="chor">chor：</string>
+    <string name="contact">contact：</string>
+    <string name="coutries">coutries：</string>
+    <string name="address">address：</string>
+    <string name="trade">trade：</string>
+    <string name="company_scale">company_scale：</string>
+    <string name="weisite_domain">weisite_domain：</string>
+    <string name="weisite_data">weisite_data</string>
+
+    <string name="next">next</string>
+    <string name="email">email</string>
+    <string name="phone">mobile</string>
+    <string name="chat_settings">setting</string>
+    <string name="the_default_send">the_default_send</string>
+    <string name="paypal">paypal</string>
+    <string name="payment">payment</string>
+
+
+    <string name="save">save</string>
+    <string name="default_send_title">When a user into the chat window, the default send routinely use</string>
+    <string name="add_the_phrase">add_the_phrase</string>
+    <string name="the_phrase_set">the_phrase_set</string>
+    <string name="edit_profile">edit_profile</string>
+    <string name="edit">edit</string>
+
+    <string name="modify_the_head">modify_the_head</string>
+    <string name="modify_the_logo">modify_the_logo</string>
+    <string name="modify_the_customer_name">modify_the_customer_name</string>
+    <string name="login_out">login_out</string>
+    <string name="i_chat">iChat</string>
+    <string name="sure_login_out">Wheather login out</string>
+    <string name="sure">sure</string>
+
+
+    <string name="standard_edition">standard_edition</string>
+    <string name="settings">settings</string>
+    <string name="upgrade_to_pro">upgrade_to_pro</string>
+    <string name="about_tmkiss">about_tmkiss</string>
+    <string name="version_update">version_update</string>
+    <string name="langswitcher">Language</string>
+    <string name="message">message</string>
+    <string name="processed">processed</string>
+    <string name="settle">settle</string>
+    <string name="delete">delete</string>
+    <string name="add_service">add_service</string>
+    <string name="trans_service">trans_service</string>
+
+    <string name="account_create_success">account_create_success</string>
+    <string name="copy_the_account_password">copy_the_account_password</string>
+    <string name="today_page_view">today_page_view</string>
+    <string name="total_page_view">total_page_view</string>
+    <string name="operator">operator</string>
+    <string name="professional">professional</string>
+    <string name="enterprise_edition">enterprise_edition</string>
+    <string name="order">order</string>
+    <string name="finish">finish</string>
+    <string name="cancel">cancel</string>
+    <string name="english">English</string>
+    <string name="fantizhongwen">繁體中文</string>
+
+    <string name="order_top">order_top </string>
+    <string name="order_bottom">账户：012-355-00071056\n
+用户名：Teamotto(HK) Limitde\n
+银行操作完成后\n
+ 发送邮件到:\n
+mobile@teamotto.net</string>
+
+
+    <string name="PickerPhotos">PickerPhotos</string>
+    <string name="PickerVideo">PickerVideo</string>
+    <string name="AllPhotos">AllPhotos</string>
+    <string name="AllVideo">AllVideo</string>
+    <string name="NoPhotos">NoPhotos</string>
+    <string name="NoVideo">NoVideo</string>
+    <string name="SearchImages">SearchImages</string>
+    <string name="SearchGifs">SearchGifs</string>
+    <string name="NoRecentPhotos">NoRecentPhotos</string>
+    <string name="NoRecentGIFs">NoRecentGIFs</string>
+    <string name="NoResult">NoResult</string>
+    <string name="Crop">Crop</string>
+    <string name="AttachPhoto">AttachPhoto</string>
+    <string name="Of">%1$d of %2$d</string>
+    <string name="Set">Set</string>
+    <string name="Album">Album</string>
+
+    <string name="ClearSearch">ClearSearch</string>
+    <string name="ClearButton">ClearButton</string>
+
+    <string name="SearchImagesTitle">SearchImagesTitle</string>
+    <string name="SearchGifsTitle">SearchGifsTitle</string>
+
+    <string name="SearchImagesInfo">SearchImagesInfo</string>
+    <string name="MostSelect">selected no more than %d photos</string>
+
+    <string name="Send">Send</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Preview">Preview</string>
+    <string name="album_read_fail">Please check the permissions</string>
+
+
+    <string name="tag_hint">Tag is an alphabetical, numeric, underlined, Chinese, more than a comma separated</string>
+    <string name="alias_hint">Alias is a letter, a number, a underline</string>
+    <string name="style_hint">Style is a number</string>
+    <string name="error_style_empty">style can not be null</string>
+    <string name="error_alias_empty">alias can not be null</string>
+    <string name="error_tag_empty">tag can not be null</string>
+    <string name="error_tag_gs_empty">Format is wrong</string>
+    <string name="error_network">Network connection exception, initialization failure please check the network!</string>
+    <string name="logining">The program is executed in the background, please check the log!</string>
+    <string name="setting_su">Set up success</string>
+
+    <string name="qingshurugongsimingcheng">Please enter the name of the company</string>
+    <string name="qingshurugongsijiancheng">Please enter the company for short</string>
+    <string name="qingshurulianxiren">Please enter the name of the contact</string>
+    <string name="qingshurugongsidizhi">Please enter the company address</string>
+    <string name="qingshurusuoshuhangye">Please choose the industry</string>
+    <string name="qingshurugongsiguimo">Please choose the size of the company</string>
+    <string name="qingshurugongsiwangzhan">Please enter the domain name</string>
+    <string name="qingxuanzeguojia">Please choose the country</string>
+    <string name="qingshuruzhengquedeshoujihaoma">Please enter a valid phone</string>
+    <string name="qingshuruzhengquedeyouxiang">Please enter a valid email address</string>
+    <string name="qingshuruloginid">Please enter the login ID</string>
+    <string name="qingshurugongsiid">Please enter the company ID</string>
+    <string name="qingshurumima">Please input a password</string>
+    <string name="zhuanyikefudao">Transform to</string>
+</resources>
